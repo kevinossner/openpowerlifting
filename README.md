@@ -24,8 +24,7 @@ Especially the last question could be useful in practice for powerlifting athlet
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available here to showcase work related to the above questions. Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title. Markdown cells were used to assist in walking through the process for individual steps.  
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+There is one notebook available here to showcase work related to the above questions. The notebook contains parts of data preprocessing, exploratory analysis and predictive analytics. Markdown cells were used to assist in walking through the process and documenting the code. There is an additional `plots` folder that contains all created plots to obtain the final results of the project.
 
 ## Results<a name="results"></a>
 
