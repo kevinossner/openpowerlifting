@@ -9,7 +9,17 @@
 
 ## Installation <a name="installation"></a>
 
-There should be no necessary libraries to run the code here beyond the Anaconda distribution of Python.  The code should run with no issues using Python versions 3.*.
+The following packages are used:
+
+1. `pandas`
+2. `numpy`
+3. `sklearn`
+4. `matplotlib`
+5. `math`
+6. `zipfile`
+7. `datetime`
+
+The code should run with no issues using Python versions 3.*.
 
 ## Project Motivation<a name="motivation"></a>
 
@@ -24,7 +34,9 @@ Especially the last question could be useful in practice for powerlifting athlet
 
 ## File Descriptions <a name="files"></a>
 
-There is one notebook available here to showcase work related to the above questions. The notebook contains parts of data preprocessing, exploratory analysis and predictive analytics. Markdown cells were used to assist in walking through the process and documenting the code. There is an additional `plots` folder that contains all created plots to obtain the final results of the project.
+There is one notebook available here to showcase work related to the above questions. The notebook contains parts of data preprocessing, exploratory analysis and predictive analytics. Markdown cells were used to assist in walking through the process and documenting the code.
+
+There is an additional `plots` folder that contains all created plots to obtain the final results of the project. Also the used data as a `.zip` file can be found.
 
 ## Results<a name="results"></a>
 
