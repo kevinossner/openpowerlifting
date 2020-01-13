@@ -19,7 +19,7 @@ For this project, I was interestested in using data from the openpowerlifting da
 2. How much do the three lifts (squat, benchpress, deadlift) interfere each other?
 3. Can you predict the best deadlift attempt with the other two lifts and some additional data?
 
-The full set of files related to this course are owned by Udacity, so they are not publicly available here.  However, you can see pieces of the analysis here.  This README also serves as a template for students to follow in creating their own project README files.
+Especially the last question could be useful in practice for powerlifting athletes, because at meets they have to pick the weight for every attempt carefully to not overshoot or to leave potential.
 
 
 ## File Descriptions <a name="files"></a>
